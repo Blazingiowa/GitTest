@@ -11,6 +11,10 @@ public class GitTest {
 		}
 
 
+		if(melt==melt)
+		{
+			melt="メルトに国士無双四槓子";
+		}
 		System.out.println(melt);
 
 
